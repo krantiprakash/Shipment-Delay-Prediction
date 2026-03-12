@@ -59,13 +59,21 @@ In this project, `Yes` means delayed, and `Yes` is treated as the positive class
 
 ---
 
-## Visual results
+<!-- ## Visual results
 
 ### 1) Streamlit app interface
 ![App Screenshot](streamlit_app_view.png)
 
 ### 2) Confusion matrix
-![Confusion Matrix](eval_results/confusion_matrix.png)
+![Confusion Matrix](eval_results/confusion_matrix.png) -->
+## Visual results
+
+### 1) Streamlit app interface
+<img src="streamlit_app_view.png" alt="App Screenshot" width="700"/>
+
+### 2) Confusion matrix
+<img src="eval_results/confusion_matrix.png" alt="Confusion Matrix" width="500"/>
+
 ---
 
 ## How to run this project
