@@ -19,7 +19,7 @@ Training Data.csv/
 
 # ML artifacts
 
-eval_results/
+# eval_results/
 predictions_results/
 experiment_log.csv
 
