@@ -1,0 +1,6 @@
+#Using Git bash 
+python -m venv myenv
+source myenv/Scripts/activate
+deactivate
+
+Python --version == 3.11.5

@@ -1,0 +1,8 @@
+Origin,Destination,Shipment Date,Planned Delivery Date,Vehicle Type,Distance (km),Weather Conditions,Traffic Conditions
+Jaipur,Ahmedabad,15-01-2024,18-01-2024,Lorry,768,Clear,Moderate
+Pune,Ahmedabad,04-10-2023,07-10-2023,Lorry,856,Clear,Moderate
+Mumbai,Delhi,20-11-2023,24-11-2023,Truck,1410,Fog,Heavy
+Bangalore,Chennai,11-12-2023,13-12-2023,Container,350,Rain,Moderate
+Hyderabad,Kolkata,22-08-2023,27-08-2023,Trailer,1490,Rain,Heavy
+Delhi,Lucknow,03-02-2024,05-02-2024,Truck,1000,Clear,Light
+Ahmedabad,Chennai,06-01-2023,07-01-2023,Trailer,1320,Clear,Light
