@@ -139,8 +139,6 @@ Open the local URL shown in terminal (usually `http://localhost:8501`).
 
 ## Project outputs
 
-## Project outputs
-
 - Predicts whether a shipment will be Delayed (`Yes`) or On-time (`No`).
 - Shows a delay probability score for each shipment.
 - Groups risk into `Low` / `Medium` / `High` bands for quick decisions.
