@@ -1,0 +1,39 @@
+{
+  "run_time": "2026-03-12 12:36:55",
+  "data_path": "Training Data.csv",
+  "model_name": "logistic_regression_baseline",
+  "target_positive_label": "Yes",
+  "train_shape": [
+    16000,
+    9
+  ],
+  "test_shape": [
+    4000,
+    9
+  ],
+  "features": [
+    "Origin",
+    "Destination",
+    "Vehicle Type",
+    "Distance (km)",
+    "Weather Conditions",
+    "Traffic Conditions",
+    "planned_transit_days",
+    "ship_month",
+    "ship_weekday"
+  ],
+  "metrics": {
+    "train_accuracy": 0.9173125,
+    "test_accuracy": 0.91675,
+    "train_precision": 1.0,
+    "test_precision": 1.0,
+    "train_recall": 0.8879383364390988,
+    "test_recall": 0.8871568959674686,
+    "train_f1": 0.9406433666831172,
+    "test_f1": 0.9402047046148321,
+    "train_roc_auc": 0.9469391851625116,
+    "test_roc_auc": 0.9444986253064431,
+    "accuracy_gap_train_minus_test": 0.0005625000000000213,
+    "f1_gap_train_minus_test": 0.0004386620682851339
+  }
+}
