@@ -1,0 +1,3 @@
+Class,Total_Actual,Correctly_Predicted,Misclassified,Correctness_Percentage
+No,1049,1049,0,100.0
+Yes,2951,2618,333,88.72

@@ -1,0 +1,46 @@
+{
+  "run_time": "2026-03-12 13:14:23",
+  "data_path": "Training Data.csv",
+  "model_path": "models/model_pipeline.joblib",
+  "positive_label": "Yes",
+  "metrics": {
+    "test_accuracy": 0.91675,
+    "test_precision": 1.0,
+    "test_recall": 0.8871568959674686,
+    "test_f1": 0.9402047046148321,
+    "test_roc_auc": 0.9444986253064431
+  },
+  "classification_report": {
+    "No": {
+      "precision": 0.7590448625180898,
+      "recall": 1.0,
+      "f1-score": 0.8630193336075689,
+      "support": 1049.0
+    },
+    "Yes": {
+      "precision": 1.0,
+      "recall": 0.8871568959674686,
+      "f1-score": 0.9402047046148321,
+      "support": 2951.0
+    },
+    "accuracy": 0.91675,
+    "macro avg": {
+      "precision": 0.8795224312590448,
+      "recall": 0.9435784479837344,
+      "f1-score": 0.9016120191112005,
+      "support": 4000.0
+    },
+    "weighted avg": {
+      "precision": 0.936809515195369,
+      "recall": 0.91675,
+      "f1-score": 0.9199628410681773,
+      "support": 4000.0
+    }
+  },
+  "artifacts": {
+    "confusion_matrix_png": "eval_results\\confusion_matrix.png",
+    "test_predictions_csv": "eval_results\\test_predictions.csv",
+    "class_wise_summary_csv": "eval_results\\class_wise_summary.csv",
+    "misclassified_rows_csv": "eval_results\\misclassified_rows.csv"
+  }
+}
