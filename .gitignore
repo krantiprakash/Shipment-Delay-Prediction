@@ -8,6 +8,8 @@ myenv/
 
 # Jupyter
 .ipynb_checkpoints/
+sample_inference_input.csv/
+Training Data.csv/
 
 
 # Build / cache
