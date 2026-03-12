@@ -18,7 +18,7 @@ Training Data.csv/
 .mypy_cache/
 
 # ML artifacts
-models/
+
 eval_results/
 predictions_results/
 experiment_log.csv
